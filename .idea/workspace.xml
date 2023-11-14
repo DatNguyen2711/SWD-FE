@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fef1fa9d-18b9-4853-b7e0-c32b85ea5c82" name="Changes" comment="update: app.js">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/PopoverButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/PopoverButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useQueryissueTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useQueryissueTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libs/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Authservice/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Authservice/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ManageUsers/ManageUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ManageUsers/ManageUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ManageUsers/ViewUserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ManageUsers/ViewUserProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Vz1JMBG3sr31FFsw7FpWi7YYFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/7-SWD392/SWD392_Project/g2_swd392_fe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef1fa9d-18b9-4853-b7e0-c32b85ea5c82" name="Changes" comment="" />
+      <created>1695824023903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695824023903</updated>
+      <workItem from="1695824024446" duration="400000" />
+      <workItem from="1697274357573" duration="614000" />
+      <workItem from="1697292238590" duration="509000" />
+      <workItem from="1697524126013" duration="1286000" />
+      <workItem from="1697624380156" duration="1371000" />
+      <workItem from="1698069425771" duration="1678000" />
+      <workItem from="1698108725494" duration="380000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add and update: ManageSubject">
+      <created>1698071100972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698071100972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update: app.js">
+      <created>1698108817564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698108817564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add and update: ManageSubject" />
+    <MESSAGE value="update: app.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: app.js" />
+  </component>
+</project>

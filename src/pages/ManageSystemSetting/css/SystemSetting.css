@@ -1,0 +1,32 @@
+.button-click {
+    padding: 8px 16px;
+    background: #007bff; /* Màu nền mặc định */
+    color: #fff; /* Màu chữ mặc định */
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.button-click:hover {
+    background: #0056b3; /* Màu nền khi hover */
+}
+
+/* Định dạng custom cho select */
+.custom-select {
+    width: 150px; /* Độ rộng */
+    padding: 10px; /* Khoảng cách bên trong */
+    border: 1px solid #ccc; /* Viền */
+    border-radius: 5px; /* Góc bo tròn */
+    background-color: #f4f4f4; /* Màu nền */
+    color: #333; /* Màu chữ */
+    font-size: 14px; /* Kích thước font chữ */
+    cursor: pointer; /* Con trỏ chuột */
+}
+
+/* Định dạng khi hover hoặc focus */
+.custom-select:hover,
+.custom-select:focus {
+    background-color: #e0e0e0;
+    border: 1px solid #999;
+}
